@@ -9,11 +9,11 @@ const categoriesData = [
   },
   {
     id: 3,
-    title: "Guiar",
+    title: "Guitar",
   },
   {
     id: 4,
-    title: "Blender 3D",
+    title: "3D",
   },
   {
     id: 5,
